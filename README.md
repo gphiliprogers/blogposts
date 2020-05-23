@@ -24,7 +24,7 @@ These are my top forty blog posts, in descending order of popularity:
 + [Retrospective Technique: Appreciation Postcards](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-post-cards-e53ef3d67425)
 + [An Agile Learning Taxonomy](https://medium.com/agile-outside-the-box/an-agile-learning-taxonomy-a532a48c13ca)
 + [Retrospective Technique #1: Tell a Story](https://medium.com/agile-outside-the-box/agile-retrospective-technique-1-7cac5cb4302a)
-+ [Team Working Agreement for a Team Transitioning to Scrumban](https://medium.com/agile-outside-the-box/team-working-agreement-for-a-team-transitioning-to-scrumban-8c197190e4c7]
++ [Team Working Agreement for a Team Transitioning to Scrumban](https://medium.com/agile-outside-the-box/team-working-agreement-for-a-team-transitioning-to-scrumban-8c197190e4c7)
 + [Retrospective Technique #3: Complete Agenda for a Program-Level Retrospective](https://medium.com/agile-outside-the-box/retrospective-technique-3-3a58764b521b)
 + [Team Decision-Making Techniques](https://medium.com/agile-outside-the-box/team-decision-making-techniques-80f2138ae31e)
 + [The Agile Fluency Model](https://medium.com/agile-outside-the-box/the-agile-fluency-model-bcc3ab678e2b)
