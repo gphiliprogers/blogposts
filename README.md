@@ -2,10 +2,6 @@
 
 This page is intended to be a container that provides an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a summary of my most popular blog posts on Medium.
 
-# Playbook
-
-I've been experimenting in recent years with creating Agile Playbooks for various clients. This page will also point to examples of playbook topics.
-
 
 ## Most Popular Blog Posts
 
