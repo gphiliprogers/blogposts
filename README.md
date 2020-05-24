@@ -49,3 +49,5 @@ These are my top forty blog posts, in descending order of popularity:
 + [The Trust Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
 + [Team APIs](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
 + [The Importance of Creating Time and Space for Movement at Work](https://medium.com/agile-outside-the-box/the-importance-of-creating-time-and-space-for-movement-at-work-ff6be48584a2)
+
+[link test](https://github.com/gphiliprogers/blogposts/blob/master/anzeneering.md)
