@@ -1,11 +1,14 @@
 # Blog Posts
 
-This page is intended to be a container that provides an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a summary of my most popular blog posts on Medium.
+This page is intended to be a container that provides an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a couple of different presentations of the blog post content:
+
++ Most popular (over the lifetime of the blog)
++ Most recent (reverse chronoligical order)
 
 
 ## Most Popular Blog Posts
 
-These are my top forty blog posts, in descending order of popularity:
+These are my top forty blog posts, in descending order of popularity:, over the lifetime of the blog:
 
 + [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9)
 + [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8)
@@ -50,4 +53,19 @@ These are my top forty blog posts, in descending order of popularity:
 + [Team APIs](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
 + [The Importance of Creating Time and Space for Movement at Work](https://medium.com/agile-outside-the-box/the-importance-of-creating-time-and-space-for-movement-at-work-ff6be48584a2)
 
+
+## Most Recent Blog Posts
+
+These are the 10 most recent posts, in reverse chronological order:
+
++ [Team APIs](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
++ [The Trust Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
++ [Exploratory Testing Quick Start](https://medium.com/agile-outside-the-box/exploratory-testing-quick-start-942bbf6a738a)
++ [My Daily Pomodoros](https://medium.com/agile-outside-the-box/my-daily-pomodoros-6f1b99ff7c99)
++ [Looking for a New Retrospective Technique? Try One of These](https://medium.com/agile-outside-the-box/looking-for-a-new-retrospective-technique-try-one-of-these-19a109b1f1cd)
++ [Let's Make Socrates Our Retrospective Facilitator](https://medium.com/agile-outside-the-box/lets-make-socrates-our-retrospective-facilitator-e705a251fa8a)
++ [C-Level for a Day Retrospective](https://medium.com/agile-outside-the-box/c-level-for-a-day-retrospective-8c4ee7e3917)
++ [Wisdom for the Crowd, Wisdom of the Crowd](https://medium.com/agile-outside-the-box/wisdom-for-the-crowd-wisdom-of-the-crowd-c7ede9ec2ed0)
++ [The Importance of Creating Time and Space for Movement at Work](https://medium.com/agile-outside-the-box/the-importance-of-creating-time-and-space-for-movement-at-work-ff6be48584a2)
++ [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae)
 
