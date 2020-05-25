@@ -5,6 +5,7 @@ This page is intended to be a container that provides an alternative way to view
 + Most popular (over the lifetime of the blog)
 + Most recent (reverse chronoligical order)
 
+*Note: I'm also uploading other content I've written that is not published on my blog. and I'll be adding it iteratively over time. You can find that content in the [Playbook](https://github.com/gphiliprogers/playbook).
 
 ## Most Popular Blog Posts
 
