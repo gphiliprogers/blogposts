@@ -9,7 +9,7 @@ This page is intended to be a container that provides an alternative way to view
 
 ## Most Popular Blog Posts
 
-These are my top forty blog posts, in descending order of popularity:, over the lifetime of the blog:
+These are my top forty blog posts, in descending order of popularity, over the lifetime of the blog:
 
 + [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9)
 + [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8)
