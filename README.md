@@ -2,8 +2,8 @@
 
 This page is intended to be a container that provides an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a couple of different presentations of the blog post content:
 
-+ Most popular (over the lifetime of the blog)
-+ Most recent (reverse chronoligical order)
++ [Most popular](#most-popular-blog-posts) (over the lifetime of the blog)
++ [Most recent](#most-recent-blog-posts) (reverse chronoligical order)
 
 *Note: I'm also uploading other content I've written that is not published on my blog. and I'll be adding it iteratively over time. You can find that content in the [Playbook](https://github.com/gphiliprogers/playbook).*
 
