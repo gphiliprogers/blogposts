@@ -5,7 +5,7 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 + [Most popular](#most-popular-blog-posts) (over the lifetime of the blog)
 + [Most recent](#most-recent-blog-posts) (reverse chronoligical order)
 
-*Note: I'm also uploading other content I've written that is not published on my blog. and I'll continue to add to it iteratively. You can find that content in the [Playbook](https://github.com/gphiliprogers/playbook).*
+*Note: I'm also uploading other content I've written that is not published on my blog. and I'll continue to add to it iteratively. You can find that content in the [Playbook](https://gphiliprogers.github.io/playbook/).*
 
 ## Most Popular Blog Posts
 
