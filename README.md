@@ -1,6 +1,6 @@
 # Blog Posts
 
-This page is intended to be a container that provides an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a couple of different presentations of the blog post content:
+This page is intended to provide an alternative way to view my [blog posts on Medium](https://medium.com/agile-outside-the-box), and also to view other content I've written which is not available on Medium. See below for a couple of different presentations of the blog post content:
 
 + [Most popular](#most-popular-blog-posts) (over the lifetime of the blog)
 + [Most recent](#most-recent-blog-posts) (reverse chronoligical order)
