@@ -5,7 +5,9 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 + [Most popular](#most-popular-blog-posts) (over the lifetime of the blog)
 + [Most recent](#most-recent-blog-posts) (reverse chronoligical order)
 
-*Note: I'm also uploading other content I've written that is not published on my blog. and I'll continue to add to it iteratively. You can find that content in the [Playbook](https://gphiliprogers.github.io/playbook/).*
+*Note: I'm uploading other content I've written that is not published on my blog. and I'll continue to add to it iteratively. You can find that content in the [Playbook](https://gphiliprogers.github.io/playbook/).*
+
+*Note 2: I'm also experimenting with [Finders](https://gphiliprogers.github.io/finders/), which are pages to help locate content quickly on topics like Liberating Structures, and Management 3.0 Practices.*
 
 ## Most Popular Blog Posts
 
