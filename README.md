@@ -61,6 +61,7 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 These are the 10 most recent posts, in reverse chronological order:
 
++ [Mashup: Using My Favorite Thing, 1–2–4-All, Moving Motivators, and My Unsung Hero to Create a Culture Book](https://medium.com/agile-outside-the-box/mashup-using-my-favorite-thing-1-2-4-all-moving-motivators-and-my-unsung-hero-to-create-a-836cba073679)
 + [Liberating Structures Finder](https://medium.com/agile-outside-the-box/liberating-structures-finder-f57af294053c)
 + [Expressing Appreciation: Kudo Cards, Kudo Box, Kudo Wall](https://medium.com/agile-outside-the-box/expressing-appreciation-kudo-cards-kudo-box-kudo-wall-aff14c5f335d)
 + [Daily Standup Patterns](https://medium.com/agile-outside-the-box/daily-standup-patterns-d69ff48e1087) 
@@ -70,7 +71,7 @@ These are the 10 most recent posts, in reverse chronological order:
 + [My Daily Pomodoros](https://medium.com/agile-outside-the-box/my-daily-pomodoros-6f1b99ff7c99)
 + [Looking for a New Retrospective Technique? Try One of These](https://medium.com/agile-outside-the-box/looking-for-a-new-retrospective-technique-try-one-of-these-19a109b1f1cd)
 + [Let's Make Socrates Our Retrospective Facilitator](https://medium.com/agile-outside-the-box/lets-make-socrates-our-retrospective-facilitator-e705a251fa8a)
-+ [C-Level for a Day Retrospective](https://medium.com/agile-outside-the-box/c-level-for-a-day-retrospective-8c4ee7e3917)
+
 
 
 
