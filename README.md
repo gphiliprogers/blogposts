@@ -61,6 +61,7 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 These are the 10 most recent posts, in reverse chronological order:
 
++ [Management 3.0 Practices Finder](https://medium.com/agile-outside-the-box/management-3-0-practices-finder-a59d7dd924d0)
 + [Mashup: Using My Favorite Thing, 1–2–4-All, Moving Motivators, and My Unsung Hero to Create a Culture Book](https://medium.com/agile-outside-the-box/mashup-using-my-favorite-thing-1-2-4-all-moving-motivators-and-my-unsung-hero-to-create-a-836cba073679)
 + [Liberating Structures Finder](https://medium.com/agile-outside-the-box/liberating-structures-finder-f57af294053c)
 + [Expressing Appreciation: Kudo Cards, Kudo Box, Kudo Wall](https://medium.com/agile-outside-the-box/expressing-appreciation-kudo-cards-kudo-box-kudo-wall-aff14c5f335d)
