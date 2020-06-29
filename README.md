@@ -59,8 +59,10 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 ## Most Recent Blog Posts
 
-These are the 10 most recent posts, in reverse chronological order:
+These are the 12 most recent posts, in reverse chronological order:
 
++ [How Happy are We at Work: The Niko Niko Calendar](https://medium.com/agile-outside-the-box/how-happy-we-are-at-work-the-niko-niko-calendar-e053f048d58b)
++ [Exploring What We've Learned: Celebration Grids](https://medium.com/agile-outside-the-box/exploring-what-weve-learned-celebration-grids-c21149f02313)
 + [Management 3.0 Practices Finder](https://medium.com/agile-outside-the-box/management-3-0-practices-finder-a59d7dd924d0)
 + [Mashup: Using My Favorite Thing, 1–2–4-All, Moving Motivators, and My Unsung Hero to Create a Culture Book](https://medium.com/agile-outside-the-box/mashup-using-my-favorite-thing-1-2-4-all-moving-motivators-and-my-unsung-hero-to-create-a-836cba073679)
 + [Liberating Structures Finder](https://medium.com/agile-outside-the-box/liberating-structures-finder-f57af294053c)
