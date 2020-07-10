@@ -53,7 +53,7 @@ These are my top forty blog posts, in descending order of popularity, over the l
 + [The Importance of Show and Tell](https://medium.com/@g_philip/the-importance-of-show-and-tell-d5d18d5f2383)
 + [Let's Be More Factful: Introduction](https://medium.com/agile-outside-the-box/lets-be-more-factful-introduction-a3575e99a45a)
 + [The Trust Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
-+ [Team APIs](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
++ [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
 + [The Importance of Creating Time and Space for Movement at Work](https://medium.com/agile-outside-the-box/the-importance-of-creating-time-and-space-for-movement-at-work-ff6be48584a2)
 
 
@@ -69,7 +69,7 @@ These are the 13 most recent posts, in reverse chronological order:
 + [Liberating Structures Finder](https://medium.com/agile-outside-the-box/liberating-structures-finder-f57af294053c)
 + [Expressing Appreciation: Kudo Cards, Kudo Box, Kudo Wall](https://medium.com/agile-outside-the-box/expressing-appreciation-kudo-cards-kudo-box-kudo-wall-aff14c5f335d)
 + [Daily Standup Patterns](https://medium.com/agile-outside-the-box/daily-standup-patterns-d69ff48e1087) 
-+ [Team APIs](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
++ [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
 + [The Trust Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
 + [Exploratory Testing Quick Start](https://medium.com/agile-outside-the-box/exploratory-testing-quick-start-942bbf6a738a)
 + [My Daily Pomodoros](https://medium.com/agile-outside-the-box/my-daily-pomodoros-6f1b99ff7c99)
