@@ -73,7 +73,7 @@ These are the 14 most recent posts, in reverse chronological order:
 + [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
 + [The Trust Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
 + [Exploratory Testing Quick Start](https://medium.com/agile-outside-the-box/exploratory-testing-quick-start-942bbf6a738a)
-+ [My Daily Pomodoros](https://medium.com/agile-outside-the-box/my-daily-pomodoros-6f1b99ff7c99)
++ [My Daily Pomodoros: Healthier Living Edition](https://medium.com/agile-outside-the-box/my-daily-pomodoros-6f1b99ff7c99)
 + [Looking for a New Retrospective Technique? Try One of These](https://medium.com/agile-outside-the-box/looking-for-a-new-retrospective-technique-try-one-of-these-19a109b1f1cd)
 + [Let's Make Socrates Our Retrospective Facilitator](https://medium.com/agile-outside-the-box/lets-make-socrates-our-retrospective-facilitator-e705a251fa8a)
 
