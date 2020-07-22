@@ -59,8 +59,9 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 ## Most Recent Blog Posts
 
-These are the 14 most recent posts, in reverse chronological order:
+These are the 15 most recent posts, in reverse chronological order:
 
++ [A Minimalist Approach for Ephemeral Teaams](https://medium.com/agile-outside-the-box/a-minimalist-approach-for-ephemeral-teams-bd73858093f8)
 + [The Importance of Setting Aside Time for Innovation](https://medium.com/agile-outside-the-box/the-importance-of-setting-aside-time-for-innovation-a6ec75aa556d)
 + [Unlocking the Wisdom of the Crowd Through Communities of Practice](https://medium.com/agile-outside-the-box/unlocking-the-wisdom-of-the-crowd-through-communities-of-practice-1fea61be1271)
 + [How Happy are We at Work: The Niko Niko Calendar](https://medium.com/agile-outside-the-box/how-happy-we-are-at-work-the-niko-niko-calendar-e053f048d58b)
