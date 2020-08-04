@@ -59,8 +59,9 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 ## Most Recent Blog Posts
 
-These are the 16 most recent posts, in reverse chronological order:
+These are the 17 most recent posts, in reverse chronological order:
 
++ [Cheat Sheet Finder](https://medium.com/agile-outside-the-box/cheat-sheet-finder-d6d241c5a34c)
 + [Outcomes as Enablers of Business Impact](https://medium.com/agile-outside-the-box/outcomes-as-enablers-of-business-impact-c228a5dbd29f)
 + [A Minimalist Approach for Ephemeral Teaams](https://medium.com/agile-outside-the-box/a-minimalist-approach-for-ephemeral-teams-bd73858093f8)
 + [The Importance of Setting Aside Time for Innovation](https://medium.com/agile-outside-the-box/the-importance-of-setting-aside-time-for-innovation-a6ec75aa556d)
