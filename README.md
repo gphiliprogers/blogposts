@@ -59,8 +59,9 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 ## Most Recent Blog Posts
 
-These are the 18 most recent posts, in reverse chronological order:
+These are the 19 most recent posts, in reverse chronological order:
 
++ [A Tale of Two Teams in Crisis: Different Leadership Styles, Different Outcomes](https://medium.com/agile-outside-the-box/a-tale-of-two-teams-in-crisis-different-leadership-styles-different-outcomes-1fabaa61a319)
 + [Virtual Exercise to Create or Update a Definition of Done](https://medium.com/agile-outside-the-box/virtual-exercise-to-create-or-update-a-definition-of-done-d774a9802bfc)
 + [Cheat Sheet Finder](https://medium.com/agile-outside-the-box/cheat-sheet-finder-d6d241c5a34c)
 + [Outcomes as Enablers of Business Impact](https://medium.com/agile-outside-the-box/outcomes-as-enablers-of-business-impact-c228a5dbd29f)
