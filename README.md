@@ -59,8 +59,9 @@ These are my top forty blog posts, in descending order of popularity, over the l
 
 ## Most Recent Blog Posts
 
-These are the 20 most recent posts, in reverse chronological order:
+These are the 20 or so most recent posts, in reverse chronological order:
 
++ [Better Taste, Fewer Calories: My Initial Take on the 2020 Scrum Guide](https://medium.com/agile-outside-the-box/better-taste-fewer-calories-my-initial-take-on-the-2020-scrum-guide-15e2e5f9b1de)
 + [Roberto Clemente and Servant Leadership](https://medium.com/agile-outside-the-box/roberto-clemente-and-servant-leadership-bb50f202cfc1)
 + [A Tale of Two Teams in Crisis: Different Leadership Styles, Different Outcomes](https://medium.com/agile-outside-the-box/a-tale-of-two-teams-in-crisis-different-leadership-styles-different-outcomes-1fabaa61a319)
 + [Virtual Exercise to Create or Update a Definition of Done](https://medium.com/agile-outside-the-box/virtual-exercise-to-create-or-update-a-definition-of-done-d774a9802bfc)
