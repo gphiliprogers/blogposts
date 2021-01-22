@@ -70,6 +70,7 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 These are the 20-plus most recent posts, in reverse chronological order:
 
++ [PowerPoint Karaoke in Under 200 Words](https://medium.com/agile-outside-the-box/powerpoint-karaoke-in-under-200-words-fb4ed934f067)
 + [Making Hard Decisions about Priority with a Pyramid Backlog](https://medium.com/agile-outside-the-box/making-hard-decisions-about-priority-with-a-pyramid-backlog-5766c83fffc)
 + [Dependency Management Techniques](https://medium.com/agile-outside-the-box/dependency-management-techniques-187f888a6aad)
 + [Better Taste, Fewer Calories: My Initial Take on the 2020 Scrum Guide](https://medium.com/agile-outside-the-box/better-taste-fewer-calories-my-initial-take-on-the-2020-scrum-guide-15e2e5f9b1de)
