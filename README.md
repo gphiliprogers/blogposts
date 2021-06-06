@@ -70,6 +70,7 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 These are the 20-plus most recent posts, in reverse chronological order:
 
++ [Making Security Work Visible in an Agile Team Context](https://medium.com/agile-outside-the-box/techniques-for-making-security-work-visible-in-an-agile-team-context-31fbf4e0465d)
 + [The Team Canvas: Building Trust via Transparency](https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d)
 + [PowerPoint Karaoke in Under 200 Words](https://medium.com/agile-outside-the-box/powerpoint-karaoke-in-under-200-words-fb4ed934f067)
 + [Making Hard Decisions about Priority with a Pyramid Backlog](https://medium.com/agile-outside-the-box/making-hard-decisions-about-priority-with-a-pyramid-backlog-5766c83fffc)
