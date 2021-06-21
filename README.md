@@ -7,7 +7,7 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 
 *Note: I'm uploading other content I've written that is not published on my blog. and I'll continue to add to it iteratively. You can find that content in the [Playbook](https://gphiliprogers.github.io/playbook/).*
 
-*Note 2: I'm also experimenting with [Finders](https://gphiliprogers.github.io/finders/), which are pages to help locate content quickly on topics like Liberating Structures, and Management 3.0 Practices.*
+*Note 2: I'm also launched a few experiments with [Finders](https://gphiliprogers.github.io/finders/), which are pages to help locate content quickly on topics like "Cheat Sheets," Liberating Structures, and Management 3.0 Practices.*
 
 ## Most Popular Blog Posts
 
@@ -68,8 +68,9 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 ## Most Recent Blog Posts
 
-These are the 20-plus most recent posts, in reverse chronological order:
+These are the 25-plus most recent posts, in reverse chronological order:
 
++ [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73)  
 + [Making Security Work Visible in an Agile Team Context](https://medium.com/agile-outside-the-box/techniques-for-making-security-work-visible-in-an-agile-team-context-31fbf4e0465d)
 + [The Team Canvas: Building Trust via Transparency](https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d)
 + [PowerPoint Karaoke in Under 200 Words](https://medium.com/agile-outside-the-box/powerpoint-karaoke-in-under-200-words-fb4ed934f067)
