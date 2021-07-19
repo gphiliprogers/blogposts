@@ -70,6 +70,8 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 These are the 25-plus most recent posts, in reverse chronological order:
 
++ [The Scrum 5-3-5-3-3](https://medium.com/agile-outside-the-box/understanding-scrum-the-scrum-5-3-5-3-3-d8c2553899df)
++ [What Feelings Wheels Can Tell Us About Group Dynamics](https://medium.com/agile-outside-the-box/what-feelings-wheels-can-tell-us-about-group-dynamics-ca7600197a57)    
 + [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73)  
 + [Making Security Work Visible in an Agile Team Context](https://medium.com/agile-outside-the-box/techniques-for-making-security-work-visible-in-an-agile-team-context-31fbf4e0465d)
 + [The Team Canvas: Building Trust via Transparency](https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d)
