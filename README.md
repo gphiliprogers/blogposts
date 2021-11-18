@@ -68,10 +68,11 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 ## Most Recent Blog Posts
 
-These are the 25-plus most recent posts, in reverse chronological order:
+These are the 30-plus most recent posts, in reverse chronological order:
 
++ [Dependency Management Techniques: Part II](https://medium.com/agile-outside-the-box/dependency-management-techniques-part-ii-3884e3d83d52) 
 + [Velocity is a House Built of Straw](https://medium.com/agile-outside-the-box/velocity-is-a-house-built-of-straw-aa6c21659d69)  
-+ [Lean Tools for Problem Solving and Decision Making](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c)  
++ [Lean Tools for Problem Solving and Decision Making](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c) 
 + [The Scrum 5-3-5-3-3](https://medium.com/agile-outside-the-box/understanding-scrum-the-scrum-5-3-5-3-3-d8c2553899df)
 + [What Feelings Wheels Can Tell Us About Group Dynamics](https://medium.com/agile-outside-the-box/what-feelings-wheels-can-tell-us-about-group-dynamics-ca7600197a57)    
 + [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73)  
