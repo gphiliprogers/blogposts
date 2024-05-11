@@ -71,10 +71,10 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 These are the 30-plus most recent posts, in reverse chronological order:
 
 + [Embarking on the Quest to Fine Your Right Fit in the Workplace](https://medium.com/agile-outside-the-box/embarking-on-the-quest-to-find-your-right-fit-in-the-workplace-83eec95172ba)
-+ [Mathematical Combination, Brook's Law, and the Implications for Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed]
-+ [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d]
-+ [A Praactioner's Brief Guide to Scrum](https://medium.com/agile-outside-the-box/a-practitioners-guide-to-scrum-14054181d9c7]
-+ [What the DORA Metrics Can and Cannot Tell Us About Organizational Performance](https://medium.com/agile-outside-the-box/what-the-dora-metrics-can-and-cannot-tell-us-about-organizational-performance-60a1f84d5219]
++ [Mathematical Combination, Brook's Law, and the Implications for Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed)
++ [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d)
++ [A Praactioner's Brief Guide to Scrum](https://medium.com/agile-outside-the-box/a-practitioners-guide-to-scrum-14054181d9c7)
++ [What the DORA Metrics Can and Cannot Tell Us About Organizational Performance](https://medium.com/agile-outside-the-box/what-the-dora-metrics-can-and-cannot-tell-us-about-organizational-performance-60a1f84d5219)
 + [Facilitation: The Fine Art of Noticing](https://medium.com/agile-outside-the-box/facilitation-the-fine-art-of-noticing-d89af9fcb4b0) 
 + [Dependency Management Techniques: Part II](https://medium.com/agile-outside-the-box/dependency-management-techniques-part-ii-3884e3d83d52) 
 + [Velocity is a House Built of Straw](https://medium.com/agile-outside-the-box/velocity-is-a-house-built-of-straw-aa6c21659d69)  
