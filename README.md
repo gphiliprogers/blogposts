@@ -68,7 +68,7 @@ These are my top 50 blog posts, in descending order of popularity, over the life
 
 ## Most Recent Blog Posts
 
-These are the 40-plus most recent posts, in reverse chronological order:
+These constitute a representative sample of the most recent posts, in reverse chronological order:
 
 + [Embarking on the Quest to Fine Your Right Fit in the Workplace](https://medium.com/agile-outside-the-box/embarking-on-the-quest-to-find-your-right-fit-in-the-workplace-83eec95172ba)
 + [Mathematical Combination, Brook's Law, and the Implications for Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed)
