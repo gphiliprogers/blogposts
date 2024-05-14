@@ -11,9 +11,13 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 
 ## Most Popular Blog Posts
 
-These are my top 50 blog posts, in descending order of popularity, over the lifetime of the blog:
+These are my top 60 blog posts, in descending order of popularity, over the lifetime of the blog:
 
 + [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9)
++ [Facilitation: The Fine Art of Noticing](https://medium.com/agile-outside-the-box/facilitation-the-fine-art-of-noticing-d89af9fcb4b0)
++ [Pausing Time and Getting Unstuck - Lessons from a Day of Kayaking](https://medium.com/p/dad3ef3fd329)
++ [Is Being a Scrum Master Really All About Mastery of Scrum?](https://medium.com/p/97fa8b985703)
++ [What the Agile Manifesto Values Mean to Me](https://medium.com/p/6ba9d73be644)
 + [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8)
 + [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae)
 + [Inception: Getting to rapid alignment on team vision and goals](https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9)
@@ -73,10 +77,11 @@ These constitute a representative sample of the most recent posts, in reverse ch
 + [Embarking on the Quest to Fine Your Right Fit in the Workplace](https://medium.com/agile-outside-the-box/embarking-on-the-quest-to-find-your-right-fit-in-the-workplace-83eec95172ba)
 + [Mathematical Combination, Brook's Law, and the Implications for Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed)
 + [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d)
-+ [A Praactioner's Brief Guide to Scrum](https://medium.com/agile-outside-the-box/a-practitioners-guide-to-scrum-14054181d9c7)
++ [A Practioner's Brief Guide to Scrum](https://medium.com/agile-outside-the-box/a-practitioners-guide-to-scrum-14054181d9c7)
 + [What the DORA Metrics Can and Cannot Tell Us About Organizational Performance](https://medium.com/agile-outside-the-box/what-the-dora-metrics-can-and-cannot-tell-us-about-organizational-performance-60a1f84d5219)
 + [Understanding Team Capabilities](https://medium.com/p/be265163204f)
 + [Hacking the Daily Scrum: The After-Party](https://medium.com/p/5aa1aebe71c3)
++ [Pausing Time and Getting Unstuck - Lessons from a Day of Kayaking](https://medium.com/p/dad3ef3fd329)
 + [Profiles in Leadership: George Marshall](https://medium.com/p/ef92f5f9ca71)
 + [A Fresh Perspective on Forecasting in Software Development](https://medium.com/p/7c521c275146)
 + [Digging into Problems with A3](https://medium.com/p/8e45bd5ce085)
