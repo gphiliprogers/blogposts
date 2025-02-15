@@ -76,7 +76,7 @@ This list constitutes a representative sample of the most recent posts, in rever
 
 * [AI and Cybersecurity: An Introduction to Adversarial Machine Learning](https://medium.com/agile-outside-the-box/ai-and-cybersecurity-an-introduction-to-adversarial-machine-learning-485932f73b03)
 + [AI and Technological Singularity](https://medium.com/agile-outside-the-box/ai-and-technological-singularity-2ef8aa222b67)
-+ [Embracing the Near Totality of Being Human](https://medium.com/agile-outside-the-box/experiencing-the-near-totality-of-being-human-db07f46c2c09)
++ [Embracing the Near-Totality of Being Human](https://medium.com/agile-outside-the-box/experiencing-the-near-totality-of-being-human-db07f46c2c09)
 + [Embarking on the Quest to Fine Your Right Fit in the Workplace](https://medium.com/agile-outside-the-box/embarking-on-the-quest-to-find-your-right-fit-in-the-workplace-83eec95172ba)
 + [Mathematical Combination, Brook's Law, and the Implications for Team Communication](https://medium.com/agile-outside-the-box/mathematical-combination-brookss-law-and-the-implications-for-team-communication-fba1a717e8ed)
 + [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d)
