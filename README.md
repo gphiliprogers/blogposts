@@ -22,11 +22,17 @@ These are my top blog posts, in descending order of popularity, over the lifetim
 + [Back to Basics: Writing and splitting user stories](https://medium.com/agile-outside-the-box/back-to-basics-writing-and-splitting-user-stories-8903a931499c) 5.5k reads
 + [Retrospective Gamification: Choose Five](https://medium.com/agile-outside-the-box/using-gamification-to-keep-retrospectives-fun-and-engaging-52c30c7fab8f) 4.5k reads
 + [The Team Canvas: Building Trust via Transparency](https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d)
-* [Dependency Management Techniques](https://medium.com/agile-outside-the-box/dependency-management-techniques-187f888a6aad)
-* [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
-* [Story Mapping in Under 200 Words](https://medium.com/agile-outside-the-box/story-mapping-in-under-200-words-e61de2767f2e)
-* [Better Together: XP and Scrum](https://medium.com/agile-outside-the-box/better-together-xp-and-scrum-c69bf9bffcff)
-* [Agile Retrospective Technique #1: Tell a Story](https://medium.com/agile-outside-the-box/7cac5cb4302a)
++ [Dependency Management Techniques](https://medium.com/agile-outside-the-box/dependency-management-techniques-187f888a6aad)
++ [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
++ [Story Mapping in Under 200 Words](https://medium.com/agile-outside-the-box/story-mapping-in-under-200-words-e61de2767f2e)
++ [Better Together: XP and Scrum](https://medium.com/agile-outside-the-box/better-together-xp-and-scrum-c69bf9bffcff)
++ [Agile Retrospective Technique #1: Tell a Story](https://medium.com/agile-outside-the-box/7cac5cb4302a)
++ [Impact Mapping in Under 200 Words](https://medium.com/agile-outside-the-box/impact-mapping-in-under-200-words-a7528bba901f)
++ [Virtual Exercise to Create or Update a Definition of Done](https://medium.com/agile-outside-the-box/virtual-exercise-to-create-or-update-a-definition-of-done-d774a9802bfc)
++ [Agile Retrospective Technique: Appreciation Post Cards](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-post-cards-e53ef3d67425)
++ [Trading Cards Icebreaker Activity](https://medium.com/agile-outside-the-box/trading-cards-ded2882ec437)
++ [Team Decision Making Techniques](https://medium.com/agile-outside-the-box/team-decision-making-techniques-80f2138ae31e)
++ [Unlocking the Wisdom of the Crowd Through Communities of Practice](https://medium.com/agile-outside-the-box/unlocking-the-wisdom-of-the-crowd-through-communities-of-practice-1fea61be1271)
 
 
 ## Most Recent Blog Posts
