@@ -72,7 +72,7 @@ These are my top blog posts, in descending order of popularity, over the lifetim
 + [Hacking the Daily Scrum: The After Party](https://medium.com/agile-outside-the-box/hacking-the-daily-scrum-the-after-party-5aa1aebe71c3)
 + [The Important of Setting Aside Time for Innovation](https://medium.com/agile-outside-the-box/the-importance-of-setting-aside-time-for-innovation-a6ec75aa556d)
 + [Developer Experience](https://medium.com/agile-outside-the-box/developer-experience-dx-b0669b42bd6a)
-+ (Cheat Sheet Finder)[https://medium.com/agile-outside-the-box/cheat-sheet-finder-d6d241c5a34c)
++ [Cheat Sheet Finder](https://medium.com/agile-outside-the-box/cheat-sheet-finder-d6d241c5a34c)
 + [Techniques for Making Security Work Visible in an Agile Context](https://medium.com/agile-outside-the-box/techniques-for-making-security-work-visible-in-an-agile-team-context-31fbf4e0465d)
 + [Meeting Facilitator's Guide](https://medium.com/agile-outside-the-box/meeting-facilitators-checklist-715f4c7c72dd)
 + [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d)
