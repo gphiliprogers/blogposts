@@ -14,13 +14,13 @@ These are my top blog posts, in descending order of popularity, over the lifetim
 + [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9) Tied for first place with 25k reads
 + [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae) Tied for first place with 25k reads
 + [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8) 23k reads
-+ [Fastest Written Retrospective Technique Ever](https://medium.com/agile-outside-the-box/fastest-written-retrospective-technique-ever-33c69a1ffd1e) 10.1k reads
++ [Agile Retrospective Technique: Fastest Written Retrospective Technique Ever](https://medium.com/agile-outside-the-box/fastest-written-retrospective-technique-ever-33c69a1ffd1e) 10.1k reads
 + [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73) 8.5k reads 
 + [Inception: Getting to rapid alignment on team vision and goals](https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9) 8.5k reads
 + [Agile Retrospective Technique #2: 30-minute retrospective](https://medium.com/agile-outside-the-box/agile-retrospective-technique-2-7db32640275d) 8k reads
-+ [Retrospective Technique: Appreciation Game](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-game-ddb906ebbc2f) 5.6k reads
++ [Agile Retrospective Technique: Appreciation Game](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-game-ddb906ebbc2f) 5.6k reads
 + [Back to Basics: Writing and splitting user stories](https://medium.com/agile-outside-the-box/back-to-basics-writing-and-splitting-user-stories-8903a931499c) 5.5k reads
-+ [Retrospective Gamification: Choose Five](https://medium.com/agile-outside-the-box/using-gamification-to-keep-retrospectives-fun-and-engaging-52c30c7fab8f) 4.5k reads
++ [Agiel Retrospective Gamification: Choose Five](https://medium.com/agile-outside-the-box/using-gamification-to-keep-retrospectives-fun-and-engaging-52c30c7fab8f) 4.5k reads
 + [The Team Canvas: Building Trust via Transparency](https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d)
 + [Dependency Management Techniques](https://medium.com/agile-outside-the-box/dependency-management-techniques-187f888a6aad)
 + [Team APIs](https://medium.com/agile-outside-the-box/team-apis-af2dbc1805e7)
@@ -41,6 +41,42 @@ These are my top blog posts, in descending order of popularity, over the lifetim
 + [Making Hard Decisions About Priority with a Pyramid Backlog](https://medium.com/agile-outside-the-box/making-hard-decisions-about-priority-with-a-pyramid-backlog-5766c83fffc)
 + [Lean Tools for Problem Solving and Decision Making](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c)
 + [Let's Be More Factful: The Gap Instinct](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c)
++ [Agile Retrospective Technique #3: Program Retrospective](https://medium.com/agile-outside-the-box/retrospective-technique-3-3a58764b521b)
++ [Outcomes as Enablers of Business Impact](https://medium.com/agile-outside-the-box/outcomes-as-enablers-of-business-impact-c228a5dbd29f)
++ [The Trust-Ownership Model](https://medium.com/agile-outside-the-box/the-trust-ownership-model-e1e2cb4eb217)
++ [Agile Retrospective Gamification: Retrospective from a Hat](https://medium.com/agile-outside-the-box/retrospective-from-a-hat-2541c9d6b568)
++ [Expressing Appreciation: Kudo Cards, Kudo Box, Kudo Wall](https://medium.com/agile-outside-the-box/expressing-appreciation-kudo-cards-kudo-box-kudo-wall-aff14c5f335d)
++ [What Feelings Wheels Can Tell Us About Group Dynamics](https://medium.com/agile-outside-the-box/what-feelings-wheels-can-tell-us-about-group-dynamics-ca7600197a57)
++ [Trello Board: Games for Coaches, Scrum Masters, and Other Facilitators](https://medium.com/agile-outside-the-box/trello-board-games-for-coaches-scrum-masters-and-other-facilitators-1f6be62bc788)
++ [The Importance of Show and Tell](https://medium.com/agile-outside-the-box/the-importance-of-show-and-tell-d5d18d5f2383)
++ [Understanding Scrum](https://medium.com/agile-outside-the-box/understanding-scrum-the-scrum-5-3-5-3-3-d8c2553899df)
++ [The Agile Fluency Model](https://medium.com/agile-outside-the-box/the-agile-fluency-model-bcc3ab678e2b)
++ [The UnFIX Model: A Pattern-Based Approach to Organizational Design](https://medium.com/agile-outside-the-box/the-unfix-model-a-pattern-based-approach-to-organizational-design-3ccfd0ff9b4b)
++ [An Agile Learning Taxonomy](https://medium.com/agile-outside-the-box/an-agile-learning-taxonomy-a532a48c13ca)
++ [Agile Retrospective Technique: C-Level for a Day](https://medium.com/agile-outside-the-box/c-level-for-a-day-retrospective-8c4ee7e3917)
++ [Agile Values](https://medium.com/agile-outside-the-box/agile-values-25ae733a384b)
++ [Is Being a Scrum Master Really All About Mastery of Scrum?](https://medium.com/agile-outside-the-box/being-a-scrum-master-is-all-about-facilitation-so-lets-call-it-what-it-is-97fa8b985703)
++ [What the DORA Metrics Can and Cannot Tell us About Organizational Performance](https://medium.com/agile-outside-the-box/what-the-dora-metrics-can-and-cannot-tell-us-about-organizational-performance-60a1f84d5219)
++ [Likelihood vs. Impact](https://medium.com/agile-outside-the-box/likelihood-vs-impact-50785bc3d6a5)
++ [A Fresh Perspective on Forecasting in Software Development](https://medium.com/agile-outside-the-box/a-fresh-perspective-on-forecasting-in-software-development-7c521c275146)
++ [Improving Flow](https://medium.com/agile-outside-the-box/improving-flow-442dfa881f4)
++ [Dependency Management Techniques: Part II](https://medium.com/agile-outside-the-box/dependency-management-techniques-part-ii-3884e3d83d52)
++ [Identifying and Engaging Stakeholders](https://medium.com/agile-outside-the-box/identifying-and-engaging-stakeholders-c16c6557317d)
++ [Daily Standup Patterns](https://medium.com/agile-outside-the-box/daily-standup-patterns-d69ff48e1087)
++ [Agile Retrospective Technique: Let's Make Socrates Our Retrospective Facilitator](https://medium.com/agile-outside-the-box/lets-make-socrates-our-retrospective-facilitator-e705a251fa8a)
++ [A Tale of Two Teams in Crisis: Different Leadership Styles, Different Outcomes](https://medium.com/agile-outside-the-box/a-tale-of-two-teams-in-crisis-different-leadership-styles-different-outcomes-1fabaa61a319)
++ [Applying Agile Concepts in a Early Childhood Education Context](https://medium.com/agile-outside-the-box/applying-agile-concepts-in-an-early-childhood-education-setting-73eb406941d)
++ [Exploratory Testing Quick Start](https://medium.com/agile-outside-the-box/exploratory-testing-quick-start-942bbf6a738a)
++ [Understanding Team Capabilities](https://medium.com/agile-outside-the-box/understanding-team-capabilities-be265163204f)
++ [Prime Directive for Retrospectives](https://medium.com/agile-outside-the-box/prime-directive-for-futurespectives-a92c415c2286)
++ [Hacking the Daily Scrum: The After Party](https://medium.com/agile-outside-the-box/hacking-the-daily-scrum-the-after-party-5aa1aebe71c3)
++ [The Important of Setting Aside Time for Innovation](https://medium.com/agile-outside-the-box/the-importance-of-setting-aside-time-for-innovation-a6ec75aa556d)
++ [Developer Experience](https://medium.com/agile-outside-the-box/developer-experience-dx-b0669b42bd6a)
++ (Cheat Sheet Finder)[https://medium.com/agile-outside-the-box/cheat-sheet-finder-d6d241c5a34c)
++ [Techniques for Making Security Work Visible in an Agile Context](https://medium.com/agile-outside-the-box/techniques-for-making-security-work-visible-in-an-agile-team-context-31fbf4e0465d)
++ [Meeting Facilitator's Guide](https://medium.com/agile-outside-the-box/meeting-facilitators-checklist-715f4c7c72dd)
++ [The Art and Science of Writing Sprint Goals](https://medium.com/agile-outside-the-box/the-art-and-science-of-writing-sprint-goals-b6a042c270d)
++ [Roberto Clemente and Servant Leadership](https://medium.com/agile-outside-the-box/roberto-clemente-and-servant-leadership-bb50f202cfc1)
 
 
 ## Most Recent Blog Posts
