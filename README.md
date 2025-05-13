@@ -11,16 +11,16 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 
 These are my top blog posts, in descending order of popularity, over the lifetime of the blog (measured in reads, not views:
 
-+ [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9) *Tied for first place with 25k reads*
-+ [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae) *Tied for first place with 25k reads*
-+ + [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8) *23k reads*
-+ [Fastest Written Retrospective Technique Ever](https://medium.com/agile-outside-the-box/fastest-written-retrospective-technique-ever-33c69a1ffd1e) *10.1k reads*
-+ [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73) *8.5k reads* 
-+ [Inception: Getting to rapid alignment on team vision and goals](https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9) *8.5k reads*
-+ [Agile Retrospective Technique #2: 30-minute retrospective](https://medium.com/agile-outside-the-box/agile-retrospective-technique-2-7db32640275d) *8k reads*
-+ [Retrospective Technique: Appreciation Game](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-game-ddb906ebbc2f) *5.6k
-+ [Back to Basics: Writing and splitting user stories](https://medium.com/agile-outside-the-box/back-to-basics-writing-and-splitting-user-stories-8903a931499c) *5.5k reads*
-+ + [Retrospective Gamification: Choose Five](https://medium.com/agile-outside-the-box/using-gamification-to-keep-retrospectives-fun-and-engaging-52c30c7fab8f) 
++ [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9) Tied for first place with 25k reads
++ [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae) Tied for first place with 25k reads
++ [Swarming: A team-based approach to getting work done](https://medium.com/agile-outside-the-box/swarming-a-team-based-approach-to-getting-work-done-1434243f38b8) 23k reads
++ [Fastest Written Retrospective Technique Ever](https://medium.com/agile-outside-the-box/fastest-written-retrospective-technique-ever-33c69a1ffd1e) 10.1k reads
++ [Team Health Checks](https://medium.com/agile-outside-the-box/team-health-checks-b4874c15bd73) 8.5k reads 
++ [Inception: Getting to rapid alignment on team vision and goals](https://medium.com/agile-outside-the-box/inception-getting-to-rapid-alignment-on-team-vision-and-goals-47cc60b0cb9) 8.5k reads
++ [Agile Retrospective Technique #2: 30-minute retrospective](https://medium.com/agile-outside-the-box/agile-retrospective-technique-2-7db32640275d) 8k reads
++ [Retrospective Technique: Appreciation Game](https://medium.com/agile-outside-the-box/retrospective-technique-appreciation-game-ddb906ebbc2f) 5.6k reads
++ [Back to Basics: Writing and splitting user stories](https://medium.com/agile-outside-the-box/back-to-basics-writing-and-splitting-user-stories-8903a931499c) 5.5k reads
++ [Retrospective Gamification: Choose Five](https://medium.com/agile-outside-the-box/using-gamification-to-keep-retrospectives-fun-and-engaging-52c30c7fab8f) 4.5k reads
 + [Facilitation: The Fine Art of Noticing](https://medium.com/agile-outside-the-box/facilitation-the-fine-art-of-noticing-d89af9fcb4b0)
 + [Pausing Time and Getting Unstuck - Lessons from a Day of Kayaking](https://medium.com/p/dad3ef3fd329)
 + [Is Being a Scrum Master Really All About Mastery of Scrum?](https://medium.com/p/97fa8b985703)
