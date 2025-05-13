@@ -9,7 +9,7 @@ This page is intended to provide an alternative way to view my [blog posts on Me
 
 ## Most Popular Blog Posts
 
-These are my top blog posts, in descending order of popularity, over the lifetime of the blog (measured in reads, not views:
+These are my top blog posts, in descending order of popularity, over the lifetime of the blog, measured in reads:
 
 + [Lean Coffee Facilitator's Guide](https://medium.com/agile-outside-the-box/lean-coffee-facilitator-s-guide-d79d9f13d0a9) Tied for first place with 25k reads
 + [Backlog Refinement and Sprint Planning: Similarities and Differences](https://medium.com/agile-outside-the-box/backlog-refinement-and-sprint-planning-similarities-and-differences-d08761aca3ae) Tied for first place with 25k reads
@@ -33,6 +33,14 @@ These are my top blog posts, in descending order of popularity, over the lifetim
 + [Trading Cards Icebreaker Activity](https://medium.com/agile-outside-the-box/trading-cards-ded2882ec437)
 + [Team Decision Making Techniques](https://medium.com/agile-outside-the-box/team-decision-making-techniques-80f2138ae31e)
 + [Unlocking the Wisdom of the Crowd Through Communities of Practice](https://medium.com/agile-outside-the-box/unlocking-the-wisdom-of-the-crowd-through-communities-of-practice-1fea61be1271)
++ [PowerPoint Karaoke in Under 200 Words](https://medium.com/agile-outside-the-box/powerpoint-karaoke-in-under-200-words-fb4ed934f067)
++ [Trello Board: Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://medium.com/agile-outside-the-box/trello-board-retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators-104e51bdb287)
++ [Team Working Agreement for a Team Transitioning to Scrumban](https://medium.com/agile-outside-the-box/team-working-agreement-for-a-team-transitioning-to-scrumban-8c197190e4c7)
++ [Looking for a New Retrospective Technique? Try One of These](https://medium.com/agile-outside-the-box/looking-for-a-new-retrospective-technique-try-one-of-these-19a109b1f1cd)
++ [The Difference Between a Forecast and a Commitment](https://medium.com/agile-outside-the-box/the-difference-between-a-forecast-and-a-commitment-f689308badc7)
++ [Making Hard Decisions About Priority with a Pyramid Backlog](https://medium.com/agile-outside-the-box/making-hard-decisions-about-priority-with-a-pyramid-backlog-5766c83fffc)
++ [Lean Tools for Problem Solving and Decision Making](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c)
++ [Let's Be More Factful: The Gap Instinct](https://medium.com/agile-outside-the-box/lean-tools-for-problem-solving-and-decision-making-3e0b48683d6c)
 
 
 ## Most Recent Blog Posts
